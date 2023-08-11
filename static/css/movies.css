@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(28, 234, 165);
+}
+
+.container .jumbotron{
+    margin-top: 150px;
+    background-color: yellow;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+   
+}
+table{
+    margin: auto;
+    font-size: 35px;
+    background-color: rgb(186, 120, 120);
+}
+h1{
+    text-align: center;
+}
